@@ -1,0 +1,9 @@
+{
+  "account": "YOUR_SNOWFLAKE_ACCOUNT",
+  "user": "YOUR_USERNAME", 
+  "password": "YOUR_PASSWORD",
+  "warehouse": "YOUR_WAREHOUSE",
+  "database": "BIRD_DB_TEST",
+  "schema": "PUBLIC",
+  "role": "YOUR_ROLE"
+}
